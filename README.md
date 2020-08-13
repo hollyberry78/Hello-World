@@ -6,7 +6,10 @@ holly.a.burton@gmail.com
 
 ## EXPERIENCE
 
-### Workflow Specialist - Medical Regulatory, TCS; Eastgate, Ohio; Jul 2019 - present
+### Electrical Estimator, Durana Hybrid; Hamilton, Ohio; Jun 2020 - Aug 2020
+* Perform electrical take-off to assist in the bid process of commercial construction projects
+
+### Workflow Specialist - Medical Regulatory, TCS; Eastgate, Ohio; Jul 2019 - Jul 2020
 * Follow medical regulatory guidelines and SOPs for submissions to the FDA
 * Document each stage of workflow per regulatory requirements
 
@@ -45,4 +48,3 @@ University of Cincinnati, Ohio — Bachelors of Science in Electrical Engineerin
 Visual Studio, Visio, SQL Server, RS Logics, Windows & Unix OS; C/C++, VB.Net, VBScript, Ladder Logic, VHDL; Industrial Ethernet, Profibus, Industrial Ethernet; Allen Bradley, Fanuc, Balluff
 
 MS Word, Excel, PowerPoint, Access, Project
-
