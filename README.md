@@ -2,7 +2,8 @@
 * 7369 Timberknoll Drive
 * Montgomery, Ohio 45242
 * 513.490.5915
-holly.a.burton@gmail.com
+* holly.a.burton@gmail.com
+* [PDF Resume >>](/Resume.pdf)
 
 ## EXPERIENCE
 
